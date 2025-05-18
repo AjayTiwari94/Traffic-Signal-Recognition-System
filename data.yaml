@@ -1,0 +1,54 @@
+path: ./data  # Root path to your dataset
+
+train: images/train
+val: images/val
+
+nc: 47  # Number of classes in LISA dataset
+names:
+  - addedLane
+  - curveLeft
+  - curveRight
+  - dip
+  - doNotEnter
+  - doNotPass
+  - intersection
+  - keepRight
+  - leftLane
+  - leftTurn
+  - merge
+  - narrowRoad
+  - noLeftTurn
+  - noRightTurn
+  - pedestrianCrossing
+  - railroadCrossing
+  - rightLane
+  - rightTurn
+  - roundabout
+  - school
+  - schoolCrossing
+  - signalAhead
+  - slipperyRoad
+  - stop
+  - stopAhead
+  - straight
+  - yield
+  - speedLimit15
+  - speedLimit25
+  - speedLimit30
+  - speedLimit35
+  - speedLimit40
+  - speedLimit45
+  - speedLimit50
+  - speedLimit55
+  - speedLimit60
+  - speedLimit65
+  - speedLimitUrdbl
+  - speedLimitEnds
+  - truckSpeedLimit
+  - noUTurn
+  - restrictionEnds
+  - yieldAhead
+  - laneEnds
+  - turnLeft
+  - turnRight
+  - uTurn
