@@ -101,7 +101,7 @@ Add sample output images or training charts here.
 
 ## 📁 LISA Dataset
 
-- Official site: http://cvrr.ucsd.edu/LISA/lisa-traffic-sign-dataset.html
+- Official site: [http://cvrr.ucsd.edu/LISA/lisa-traffic-sign-dataset.html](https://www.kaggle.com/datasets/mbornoe/lisa-traffic-light-dataset)
 - You may need to convert annotations to YOLO format (done in this project).
 
 ---
