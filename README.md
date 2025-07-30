@@ -116,3 +116,13 @@ This project is under the MIT License. Dataset belongs to its respective owners 
 
 - [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics)
 - [LISA Traffic Sign Dataset](http://cvrr.ucsd.edu/LISA/lisa-traffic-sign-dataset.html)
+
+## Author
+Ajay Tiwari
+B.Tech Final Year - Computer Science (Specialization in Artificial Intelligence). 
+Passionate about Data Analytics and Machine Learning.
+
+## Licence
+MIT Licence - Feel free to use, modify and share with attribution.
+
+
