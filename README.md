@@ -95,7 +95,9 @@ yolo detect predict model=runs/detect/train/weights/best.pt source=data/images/v
 
 ## Results
 
-Add sample output images or training charts here.
+![img.png](Output 1.png)
+![img.png](Output 2.png)
+![img.png](Output 3.png)
 
 ---
 
