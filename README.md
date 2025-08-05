@@ -4,7 +4,7 @@ This project focuses on real-time traffic sign detection using the YOLOv8 object
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 - **Model**: YOLOv8 (You Only Look Once version 8)
 - **Dataset**: LISA Traffic Sign Dataset
@@ -13,7 +13,7 @@ This project focuses on real-time traffic sign detection using the YOLOv8 object
 
 ---
 
-## 📂 Folder Structure
+## Folder Structure
 
 ```
 traffic-signal-detection/
@@ -36,7 +36,7 @@ traffic-signal-detection/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the Repository
 
@@ -75,7 +75,7 @@ Each image should have a corresponding `.txt` file in YOLO format under `labels/
 
 ---
 
-## 🏋️‍♂️ Training the Model
+## Training the Model
 
 ```bash
 yolo detect train data=data.yaml model=yolov8n.pt epochs=50 imgsz=640
@@ -85,7 +85,7 @@ yolo detect train data=data.yaml model=yolov8n.pt epochs=50 imgsz=640
 
 ---
 
-## 🧪 Running Inference
+## Running Inference
 
 ```bash
 yolo detect predict model=runs/detect/train/weights/best.pt source=data/images/val
@@ -93,26 +93,26 @@ yolo detect predict model=runs/detect/train/weights/best.pt source=data/images/v
 
 ---
 
-## 📊 Results
+## Results
 
 Add sample output images or training charts here.
 
 ---
 
-## 📁 LISA Dataset
+## LISA Dataset
 
 - Official site: [http://cvrr.ucsd.edu/LISA/lisa-traffic-sign-dataset.html](https://www.kaggle.com/datasets/mbornoe/lisa-traffic-light-dataset)
 - You may need to convert annotations to YOLO format (done in this project).
 
 ---
 
-## 🧾 License
+## License
 
 This project is under the MIT License. Dataset belongs to its respective owners (LISA lab, UCSD).
 
 ---
 
-## 🙌 Acknowledgements
+## Acknowledgements
 
 - [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics)
 - [LISA Traffic Sign Dataset](http://cvrr.ucsd.edu/LISA/lisa-traffic-sign-dataset.html)
