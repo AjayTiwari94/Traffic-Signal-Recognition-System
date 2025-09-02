@@ -1,4 +1,4 @@
-# 🚦 Traffic Sign Detection using YOLOv8 and LISA Dataset
+# Traffic Sign Detection using YOLOv8 and LISA Dataset
 
 This project focuses on real-time traffic sign detection using the YOLOv8 object detection model trained on the LISA Traffic Sign Dataset.
 
@@ -120,9 +120,8 @@ This project is under the MIT License. Dataset belongs to its respective owners 
 - [LISA Traffic Sign Dataset](http://cvrr.ucsd.edu/LISA/lisa-traffic-sign-dataset.html)
 
 ## Author
-Ajay Tiwari
-B.Tech Final Year - Computer Science (Specialization in Artificial Intelligence). 
-Passionate about Data Analytics and Machine Learning.
+- Ajay Tiwari
+- B.Tech - Computer Science and Engineering (Artificial Intelligence) : 2022-26
 
 ## Licence
 MIT Licence - Feel free to use, modify and share with attribution.
